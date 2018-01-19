@@ -1,0 +1,18 @@
+{
+    "name": "cyve/blockchain",
+    "description": "Simple blockchain implementation in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cyril Vmd",
+            "email": "cyril@cyrilwebdesign.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cyve\\Blockchain\\": "src/"
+        }
+    },
+    "require": {}
+}
