@@ -1,4 +1,7 @@
 # blockchain
+Simple blockchain implementation in PHP
+
+> TL;DR : the "mining" function is the `while` loop in the `Blockchain::createNewBlock()` method ;-)
 
 ```
 <?php
@@ -20,5 +23,3 @@ $falsified = new Block($original->timestamp, 'Falsified Block 1', $original->pre
 $blockchain->blocks[1] = $falsified;
 $valid = $blockchain->isValid(); //false
 ```
-
-TL;DR : the "mining" function is the `while` loop in the `Blockchain::createNewBlock()` method ;-)
