@@ -3,6 +3,7 @@ Simple blockchain implementation in PHP
 
 > TL;DR : the "mining" function is the `while` loop in the `Blockchain::createNewBlock()` method ;-)
 
+## Usage
 ```
 <?php
 include __DIR__.'/../vendor/autoload.php';
