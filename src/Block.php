@@ -1,4 +1,9 @@
 <?php
+/**
+ * @author Cyril Vermande (cyril@cyrilwebdesign.com)
+ * @license MIT
+ * @copyright All rights reserved 2018 Cyril Vermande
+ */
 
 namespace Cyve\Blockchain;
 
