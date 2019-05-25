@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Cyril Vmd",
-            "email": "cyril@cyrilwebdesign.com"
+            "name": "Cyril Vermande",
+            "homepage": "https://www.cyrilwebdesign.com"
         }
     ],
     "autoload": {
